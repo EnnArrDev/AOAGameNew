@@ -2,7 +2,7 @@
 
 //Database Config
 $db_host = 'localhost';
-$db_table = 'aoa';
+$db_table = 'Database';
 $db_user = 'root';
 $db_pass = '';
 $db_charset = 'utf8mb4';
